@@ -1,4 +1,4 @@
-# GA_PowerBI
+# Google Analytics - PowerBI
 
 Curso: **Diversidade Tech by Ada & Suzano**
 
@@ -9,10 +9,6 @@ Facilitador: **Tiago Dias**
 
 ## Colaboração
 Atividade realizada em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
-
-
-## Requisitos:
-
 
 
 ## Dashboard
