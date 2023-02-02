@@ -16,5 +16,9 @@ Atividade realizada em parceria com Alecsander Guimarães Rodrigues e Rafael Alv
 
 
 ## Dashboard
-![Dash](https://github.com/NiloBSilvaJr/Netflix_PowerBI/blob/main/Tela_Netflix.png)
-
+![Dash](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Capa_GA.png)
+![Overview](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Overview_GA.png)
+![Sources](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Sources_GA.png)
+![Pages](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Pages_GA.png)
+![Devices](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Devices_GA.png)
+![Locations](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Locations_GA.png)
